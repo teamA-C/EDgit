@@ -16,3 +16,12 @@ Se recomienda crear una organización que sea la propietaria del repositorio prin
 
 Para crear un fork debes iniciar sesión en github y luego ingresar a la landing page del proyecto del que quieres sacar tu Fork.
 
+## Como trabajar con 2 o más remotos
+Listar remotos
+`git remote -v` 
+
+Agregar remotos
+`git remote add EDgit https://github.com/teamA-C/EDgit.git`
+
+Eliminar remotos
+`git remote remove EDgit`
